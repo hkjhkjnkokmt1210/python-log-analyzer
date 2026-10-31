@@ -1,0 +1,6 @@
+2026-10-31 10:00:01 INFO ip=192.168.1.1 user=admin Event: Login success
+2026-10-31 10:02:15 ERROR ip=192.168.1.50 user=admin Event: Password incorrect
+2026-10-31 10:02:20 ERROR ip=192.168.1.50 user=admin Event: Unauthorized access
+2026-10-31 10:05:00 WARNING ip=10.0.0.5 user=guest Event: High memory usage
+2026-10-31 10:10:12 ERROR ip=172.16.0.99 user=root Event: Connection refused
+2026-10-31 10:11:00 ERROR ip=192.168.1.50 user=guest Event: Invalid token
